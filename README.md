@@ -1,3 +1,4 @@
+T
 his Python script is an Inventory Management System that allows users to manage a collection of items. 
 It provides functionality to add, update, delete, display, and search for items in the inventory. 
 The inventory is stored as a dictionary, where each item is identified by a unique 
